@@ -1,1 +1,3 @@
-Mój pierwszy projekt na GitHub
+Mój pierwszy projekt na GitHub.
+
+Dokonaanie pierwszej zmiany.
